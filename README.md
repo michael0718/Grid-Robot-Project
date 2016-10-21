@@ -1,7 +1,7 @@
 ## Learning goals
 
  * The observer/observable pattern
- * Advanced testing techniques (using spy objects)
+ * Advanced testing techniques
  * Implementing basic algorithms
 
 ## Getting Started

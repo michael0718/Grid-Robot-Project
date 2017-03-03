@@ -62,6 +62,7 @@ public class WarehouseTest {
 	public void addRobotThenTestGetRobots() throws Exception {	
 		IGrid<Rack> floorPlan = SimpleGridImpl.emptyRactanlge(
 											20, 10, GridCell.at(0, 0));
+		
 		IWarehouse warehouse  = createWarehouse(floorPlan);
 		
 		// Choose a random location on the grid
